@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter{
+  width: 400px;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+.cars {
+  display: flex;
+  flex-direction: column;
+
+}
+.container {
+  display: flex;
+}
+
